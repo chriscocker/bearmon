@@ -19,15 +19,6 @@ Bear Monitoring App
 
 ## License
 
-Detailed guidance around licenses is available 
-[here](/BC-Open-Source-Development-Employee-Guide/Licenses.md)
-
-Attach the appropriate LICENSE file directly into your repository before you do anything else!
-
-The default license For code repositories is: Apache 2.0
-
-Here is the boiler-plate you should put into the comments header of every source code file as well as the bottom of your README.md:
-
     Copyright 2015 Province of British Columbia
 
     Licensed under the Apache License, Version 2.0 (the "License");
